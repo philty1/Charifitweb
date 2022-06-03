@@ -8,10 +8,11 @@
     display: grid;
     height: 100vh;
     place-items:center;
-    background: #3CC78F;
+    background: #9c5ada;
   }
   .main_div{
-    width: 365px;
+    width: 400px;
+    height: 500px;
     background: #fff;
     padding: 30px;
     border-radius: 5px;
@@ -106,7 +107,7 @@
   }
   .button input{
     padding-left: 0;
-    background: #3CC78F;
+    background: #9c5ada;
     color: #fff;
     border: none;
     font-size: 20px;
@@ -115,7 +116,7 @@
     transition: all 0.3s linear;
   }
   .button input:hover{
-    background: #3CC78F;
+    background: #9c5ada;
   }
   form .sign_up{
     text-align: center;

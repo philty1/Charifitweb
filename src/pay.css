@@ -3,7 +3,7 @@
 
     body{
         font-family: Helvetica;
-        background-color: #3CC78F;
+        background-color: #9c5ada;
         
     }
 
@@ -53,12 +53,12 @@
       padding: 0.5em 0.5em;
       display: block;
       background-color: #fff;
-      color: #3cc78f;
+      color: #9c5ada;
       position: relative;
       border: 1px solid #ccc;
     
         outline: none;
-        border: 1px solid #3cc78f;
+        border: 1px solid #9c5ada;
       
     } 
     button{
@@ -71,7 +71,7 @@
       text-decoration: none;
       color: #fff;
       border: 1px solid transparent;
-      background: #3cc78f;
+      background: #9c5ada;
       padding: 10px 20px;
       cursor: pointer;
       text-transform: uppercase;
